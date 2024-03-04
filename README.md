@@ -1,2 +1,3 @@
 # SCADA-Cubesat
-This repository contains de documentation and source code for a SCADA system
+Este repositorio contiene la documentación del sistema SCADA propuesto para un CubeSat
+##
