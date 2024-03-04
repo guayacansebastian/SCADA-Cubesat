@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 
-################################################################################
-## Form generated from reading UI file 'SCADA-CubesatZrknMU.ui'
-##
-## Created by: Qt User Interface Compiler version 5.15.3
-##
-## WARNING! All changes made in this file will be lost when recompiling UI file!
-################################################################################
 from PyQt5 import *
 
 from PySide2.QtCore import *
